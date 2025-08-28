@@ -1,6 +1,6 @@
-# Neural Network Model Reverse Engineering
+# Neural Network Model Reverse Engineering Toolkit
 
-A comprehensive toolkit for analyzing and reverse engineering neural network models from various frameworks. This suite consists of two main scripts: a model downloader and a detailed analyzer that extracts architectural details, performance characteristics, and deployment insights from black-box models.
+A comprehensive toolkit for analyzing and reverse engineering neural network models from various frameworks. This toolkit consists of two main scripts: a model downloader and a detailed analyzer that extracts architectural details, performance characteristics, and deployment insights from black-box models.
 
 ## Motivating Works
 Satwik Kundu and Swaroop Ghosh. 2024. SoK Paper: Security Concerns in Quantum Machine Learning as a Service. In Proceedings of the International Workshop on Hardware and Architectural Support for Security and Privacy 2024 (HASP '24). Association for Computing Machinery, New York, NY, USA, 28–36. https://doi.org/10.1145/3696843.3696846
