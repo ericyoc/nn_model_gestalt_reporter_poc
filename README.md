@@ -1,4 +1,4 @@
-# Neural Network Model Reverse Engineering Suite
+# Neural Network Model Reverse Engineering
 
 A comprehensive toolkit for analyzing and reverse engineering neural network models from various frameworks. This suite consists of two main scripts: a model downloader and a detailed analyzer that extracts architectural details, performance characteristics, and deployment insights from black-box models.
 
